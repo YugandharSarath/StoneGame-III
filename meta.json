@@ -1,0 +1,61 @@
+{
+    "title": "Stone Game III",
+    "difficulty": "Hard",
+    "duration": "45-60 min",
+    "topics": [
+        "Dynamic Programming",
+        "Game Theory",
+        "Minimax",
+        "Array",
+        "Recursion",
+        "Memoization"
+    ],
+    "companies": [
+        "Google",
+        "Facebook",
+        "Amazon",
+        "Microsoft",
+        "Apple",
+        "ByteDance",
+        "Adobe",
+        "Uber"
+    ],
+    "tags": [
+        "dp",
+        "game-theory", 
+        "minimax",
+        "optimal-strategy",
+        "zero-sum-game",
+        "two-players",
+        "score-difference",
+        "stones",
+        "hard",
+        "interview",
+        "competitive-programming"
+    ],
+    "leetcodeId": 1406,
+    "premium": false,
+    "category": "Dynamic Programming",
+    "subcategory": "Game Theory DP",
+    "similarProblems": [
+        "Stone Game",
+        "Stone Game II", 
+        "Stone Game IV",
+        "Stone Game V",
+        "Predict the Winner",
+        "Stone Game VI",
+        "Stone Game VII"
+    ],
+    "keyInsights": [
+        "Track score difference instead of individual scores",
+        "Work backwards using dynamic programming", 
+        "Both players play optimally",
+        "Taking fewer stones can be strategically better"
+    ],
+    "commonMistakes": [
+        "Trying to simulate the actual game",
+        "Not handling negative values correctly",
+        "Using greedy approach instead of optimal strategy",
+        "Forgetting boundary conditions"
+    ]
+}
